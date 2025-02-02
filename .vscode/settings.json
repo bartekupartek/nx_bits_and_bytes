@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "any": "cpp",
+        "optional": "cpp",
+        "variant": "cpp",
+        "string": "cpp",
+        "future": "cpp",
+        "system_error": "cpp",
+        "regex": "cpp",
+        "format": "cpp",
+        "cstdlib": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "*.inc": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "hash_map": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp"
+    }
+}
